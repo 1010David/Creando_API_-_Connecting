@@ -1,3 +1,5 @@
+Para conectar al FrontEnd : https://github.com/1010David/FrontEnd_del_Back-https-github.com-1010David-Creando_API_-_Connecting
+
 # ScreenMatch API Connecting
 
 Una aplicación web desarrollada con **Spring Boot** que conecta el back-end con el front-end, siguiendo el patrón de diseño **MVC** (Model-View-Controller). Esta API está diseñada para gestionar datos de series y facilitar la comunicación entre las capas de la aplicación de manera organizada y escalable.
